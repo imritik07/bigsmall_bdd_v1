@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="10" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="284906" started-at="2021-11-21T22:34:33 IST" finished-at="2021-11-21T22:39:18 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="284906" started-at="2021-11-21T22:34:33 IST" finished-at="2021-11-21T22:39:18 IST">
+      <class name="com.bigsmall.runner.BigSmallRunnner">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="setUpClass" is-config="true" duration-ms="777" started-at="2021-11-21T22:34:33 IST" finished-at="2021-11-21T22:34:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@74dbb1ee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="36114" started-at="2021-11-21T22:34:34 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:35:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Christmas Gifts Automate"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Christmas Gifts]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="29483" started-at="2021-11-21T22:35:10 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:35:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Corporate Gifts Automate"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Corporate Gifts]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="28796" started-at="2021-11-21T22:35:40 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:36:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Gift Card Automate"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Gift Card]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="36181" started-at="2021-11-21T22:36:09 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:36:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Automating Gifts Dropdown and fetch the product description"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Gifts DropDown]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="39212" started-at="2021-11-21T22:36:45 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:37:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Personalized Gifts Automate"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Personalized Gifts]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="26142" started-at="2021-11-21T22:37:24 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:37:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search feature automate"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Search]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="24124" started-at="2021-11-21T22:37:50 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:38:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Sign in Automate"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[SignIn]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="24188" started-at="2021-11-21T22:38:14 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:38:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Track Order Automate"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Track Order]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="21452" started-at="2021-11-21T22:38:38 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:39:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["HomePage Validation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Validate Home]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="runScenario" duration-ms="18330" started-at="2021-11-21T22:39:00 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-21T22:39:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["WishList Page Validation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[WishList]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Wish List title is not verified. did not expect to find [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Wish List title is not verified. did not expect to find [true] but found [false]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.failNotEquals(Assert.java:969)
+at org.testng.Assert.assertTrue(Assert.java:43)
+at com.bigsmall.stepDefinitions.WishListSteps.verify_the_title(WishListSteps.java:51)
+at ✽.verify the title "My Wishlist - Bigsmall.in"(file:///E:/Office_Work/Training/workspace/bigsmall_bdd/features/WishList.feature:6)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.bigsmall.runner.BigSmallRunnner@396f6598]" name="tearDownClass" is-config="true" duration-ms="14" started-at="2021-11-21T22:39:18 IST" finished-at="2021-11-21T22:39:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.bigsmall.runner.BigSmallRunnner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

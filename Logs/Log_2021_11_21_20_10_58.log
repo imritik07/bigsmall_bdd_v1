@@ -1,0 +1,4 @@
+2021-11-21 22:21:18,597 DEBUG [main] GiftCardStep:11 - Navigated to the Base Url.
+2021-11-21 22:21:27,008 DEBUG [main] GiftCardStep:25 - clicked on Gift Card link
+2021-11-21 22:21:29,310 DEBUG [main] GiftCardStep:35 - Add the quantity
+2021-11-21 22:21:32,739 DEBUG [main] GiftCardStep:11 - Gift Card Test is executed.
